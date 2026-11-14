@@ -1,3 +1,6 @@
+> [!NOTE]
+> **Documentation consolidated (2026-11-14):** The canonical cross-project copy is now at [architects-and-agents/consolidated/api-gateway-architect.md](https://github.com/dutchiono/architects-and-agents/blob/main/consolidated/api-gateway-architect.md). This repository remains for history and any additional assets pending full dependency review. New design-document edits belong in the consolidated library.
+>
 # API Gateway Architect
 
 A comprehensive AI agent specializing in API gateway design, management, and optimization for modern microservices architectures. Provides expert guidance on routing, authentication, rate limiting, and service mesh integration.
